@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="GenMath_MD/GenMath_MD.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenMath_MD/Program.cs">
+    <Files>
+      <File FileName="GenMath_MD/Program.cs" Line="77" Column="5" />
+      <File FileName="GenMath_MD/Dna/MathOp.cs" Line="15" Column="34" />
+      <File FileName="GenMath_MD/Dna/MathLiteral.cs" Line="19" Column="54" />
+      <File FileName="GenMath_MD/Dna/MathPI.cs" Line="1" Column="1" />
+      <File FileName="GenMath_MD/Dna/MathFunction.cs" Line="1" Column="1" />
+      <File FileName="GenMath_MD/Dna/Operators/BOr.cs" Line="1" Column="1" />
+      <File FileName="GenMath_MD/Dna/Operators/BAnd.cs" Line="1" Column="1" />
+      <File FileName="GenMath_MD/Dna/Operators/Add.cs" Line="1" Column="1" />
+      <File FileName="GenMath_MD/Dna/Operators/Xor.cs" Line="1" Column="1" />
+      <File FileName="GenMath_MD/Dna/Operators/Factorial.cs" Line="1" Column="1" />
+      <File FileName="GenMath_MD/Dna/MathValue.cs" Line="36" Column="10" />
+      <File FileName="GenMath_MD/Dna/MathVariable.cs" Line="6" Column="21" />
+      <File FileName="GenMath_MD/Dna/MathEuler.cs" Line="1" Column="1" />
+      <File FileName="GenMath_MD/Dna/MathEulerMascheroni.cs" Line="1" Column="1" />
+      <File FileName="GenMath_MD/Listprob.cs" Line="1" Column="1" />
+      <File FileName="GenMath_MD/Dna/Operators/Div.cs" Line="17" Column="25" />
+      <File FileName="GenMath_MD/packages.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
